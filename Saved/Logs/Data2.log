@@ -4237,3 +4237,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.07-15.04.38:925][420]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
 [2021.04.07-15.04.44:763][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2021.04.07-15.04.46:270][131]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.07-15.09.21:844][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.04.07-15.09.21:911][543]LogSavePackage: Moving '../../../../../../Users/mforn/OneDrive/Documents/GitHub/Data2/Saved/CarteTest_Auto532C653BA4D6D4EAA452395B0C7566153.tmp' to '../../../../../../Users/mforn/OneDrive/Documents/GitHub/Data2/Saved/Autosaves/Game/ThirdPersonBP/Maps/CarteTest_Auto5.umap'
+[2021.04.07-15.09.21:915][543]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/CarteTest' took 0.146
+[2021.04.07-15.09.21:915][543]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2021.04.07-15.09.21:915][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/Textures/chiens] ([1] browsable assets)...
+[2021.04.07-15.09.21:917][543]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Map/Textures/chiens.chiens]
+[2021.04.07-15.09.21:917][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Textures/chiens]
+[2021.04.07-15.09.21:924][543]LogSavePackage: Moving '../../../../../../Users/mforn/OneDrive/Documents/GitHub/Data2/Saved/chiens_Auto5AB75278C4FBD96C31AAD29A8583FFC84.tmp' to '../../../../../../Users/mforn/OneDrive/Documents/GitHub/Data2/Saved/Autosaves/Game/Map/Textures/chiens_Auto5.uasset'
+[2021.04.07-15.09.21:926][543]LogFileHelpers: Auto-saving content packages took 0.011
