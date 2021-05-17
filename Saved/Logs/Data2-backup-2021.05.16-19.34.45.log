@@ -1,0 +1,1768 @@
+﻿Log file open, 05/16/21 14:15:32
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Data2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.873981
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/logiciels/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.16-12.15.40:570][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.16-12.15.40:570][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.16-12.15.40:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+[2021.05.16-12.15.40:570][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.16-12.15.40:570][  0]LogConfig: Setting CVar [[r.EarlyZPass:2]]
+[2021.05.16-12.15.40:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+[2021.05.16-12.15.40:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.16-12.15.40:583][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.16-12.15.40:584][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+[2021.05.16-12.15.40:584][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+[2021.05.16-12.15.40:594][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:594][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.16-12.15.40:594][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.16-12.15.40:594][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:594][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.16-12.15.40:594][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:594][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.16-12.15.40:594][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.16-12.15.40:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.16-12.15.40:596][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.16-12.15.40:597][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.16-12.15.40:598][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:598][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.16-12.15.40:599][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.16-12.15.40:599][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.16-12.15.40:599][  0]LogHAL: Display: Platform has ~ 4 GB [4196302848 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.16-12.15.40:599][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.16-12.15.40:599][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.16-12.15.40:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.16-12.15.40:600][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.16-12.15.40:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.16-12.15.40:602][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.16-12.15.40:603][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.16-12.15.40:604][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.16-12.15.40:621][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.16-12.15.40:621][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.16-12.15.40:621][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.16-12.15.40:621][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/jeux vidéos/Data/Data2/Saved/Config/Windows/Engine.ini]
+[2021.05.16-12.15.40:622][  0]LogInit: Computer: LAPTOP-EAST1O7B
+[2021.05.16-12.15.40:622][  0]LogInit: User: Léa
+[2021.05.16-12.15.40:622][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.05.16-12.15.40:622][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.16-12.15.40:622][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2021.05.16-12.15.40:622][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.16-12.15.40:622][  0]LogMemory: Process Physical Memory: 133.08 MB used, 133.09 MB peak
+[2021.05.16-12.15.40:622][  0]LogMemory: Process Virtual Memory: 115.40 MB used, 115.40 MB peak
+[2021.05.16-12.15.40:622][  0]LogMemory: Physical Memory: 3259.00 MB used,  742.91 MB free, 4001.91 MB total
+[2021.05.16-12.15.40:622][  0]LogMemory: Virtual Memory: 134212288.00 MB used,  5440.46 MB free, 134217728.00 MB total
+[2021.05.16-12.15.40:678][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.16-12.15.41:891][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.16-12.15.42:113][  0]LogInit: Using OS detected language (fr-FR).
+[2021.05.16-12.15.42:113][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.05.16-12.15.42:420][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.05.16-12.15.42:421][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.05.16-12.15.42:421][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.05.16-12.15.42:421][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.05.16-12.15.42:421][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.05.16-12.15.42:422][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.05.16-12.15.42:422][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.05.16-12.15.42:422][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.05.16-12.15.42:484][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.16-12.15.42:556][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.16-12.15.43:074][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.16-12.15.43:074][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.16-12.15.45:657][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.16-12.15.45:657][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.16-12.15.45:657][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.16-12.15.45:657][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.16-12.15.45:745][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920MX' (Feature Level 11_0)
+[2021.05.16-12.15.45:745][  0]LogD3D11RHI:       2020/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.16-12.15.45:765][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2021.05.16-12.15.45:765][  0]LogD3D11RHI:       128/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.16-12.15.45:862][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.16-12.15.45:862][  0]LogD3D11RHI:       0/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.16-12.15.45:862][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.16-12.15.45:961][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.16-12.15.45:961][  0]LogD3D11RHI:     GPU DeviceId: 0x134f (for the marketing name, search the web for "GPU Device Id")
+[2021.05.16-12.15.45:961][  0]LogWindows: EnumDisplayDevices:
+[2021.05.16-12.15.45:962][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2021.05.16-12.15.45:962][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2021.05.16-12.15.45:963][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2021.05.16-12.15.45:963][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.05.16-12.15.45:963][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920MX
+[2021.05.16-12.15.45:963][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.05.16-12.15.45:963][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.05.16-12.15.45:963][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2021.05.16-12.15.46:025][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.05.16-12.15.46:025][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.16-12.15.46:049][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.16-12.15.46:054][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.16-12.15.47:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.16-12.15.47:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.16-12.15.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.16-12.15.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.16-12.15.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.16-12.15.47:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.16-12.15.47:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.16-12.15.47:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.16-12.15.47:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.16-12.15.48:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.16-12.15.48:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.16-12.15.48:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.16-12.15.48:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.16-12.15.48:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.16-12.15.48:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.16-12.15.48:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.16-12.15.48:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.16-12.15.48:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.16-12.15.48:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.16-12.15.48:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.16-12.15.48:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.16-12.15.48:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.16-12.15.48:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.16-12.15.48:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.16-12.15.48:659][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.16-12.15.48:817][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.16-12.15.50:306][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.16-12.15.50:306][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../jeux vidéos/Data/Data2/Intermediate/Shaders/WorkingDirectory/9016/).
+[2021.05.16-12.15.50:306][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Léa/AppData/Local/Temp/UnrealShaderWorkingDir/9BD06F1845B768A3A8662B9226210D90/'.
+[2021.05.16-12.15.50:307][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.16-12.15.50:307][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.16-12.15.53:832][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.16-12.15.54:086][  0]LogDerivedDataCache: Loaded boot cache 0.25s 77MB C:/Users/Léa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.16-12.15.54:086][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Léa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.16-12.15.54:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../jeux vidéos/Data/Data2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.16-12.15.54:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.16-12.15.54:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../jeux vidéos/Data/Data2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.16-12.15.54:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.16-12.15.54:621][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.16-12.15.54:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.16-12.15.54:622][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.16-12.15.54:703][  0]LogDerivedDataCache: Speed tests for C:/Users/Léa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2021.05.16-12.15.54:703][  0]LogDerivedDataCache: Display: Performance to C:/Users/Léa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=63.43MBs, RandomWriteSpeed=61.00MBs. Assigned SpeedClass 'Local'
+[2021.05.16-12.15.54:703][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Léa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.16-12.15.54:703][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.16-12.15.54:703][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.16-12.15.55:081][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.16-12.15.55:356][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.16-12.15.56:534][  0]LogAssetRegistry: FAssetRegistry took 0.0470 seconds to start up
+[2021.05.16-12.16.08:881][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.16-12.16.08:881][  0]LogInit: Active device profile: [000001E7B1EEB400][000001E7AFAEACC0 49] Windows
+[2021.05.16-12.16.08:882][  0]LogInit: Profiles: [000001E7B1EEB400][000001E7AFAEACC0 49] Windows, [000001E7B1ED8D00][000001E7B06B0E40 49] WindowsNoEditor, [000001E7B1EE8D00][000001E7B06B4FC0 49] WindowsServer, [000001E7B1EDB000][000001E7B06B9140 49] WindowsClient, [000001E7B1EEAE00][000001E7B06BD2C0 49] IOS, [000001E7B1ED9400][000001E7B06C1440 49] iPadAir, [000001E7B1EE9400][000001E7B06C55C0 49] iPadAir2, [000001E7B1E88C00][000001E7B06CD880 49] IPadPro, [000001E7B1E88D00][000001E7B06C98C0 49] iPadAir3, [000001E7B1EEAB00][000001E7B06D1A40 49] iPadAir4, [000001E7B1E8B800][000001E7B06D5BC0 49] iPadMini2, [000001E7B1EE9500][000001E7B06D9D40 49] iPadMini3, [000001E7B1E8A200][000001E7B06DC200 49] iPadMini4, [000001E7B1EEA700][000001E7B06E0380 49] iPadMini5, [000001E7B1EDA700][000001E7B06E8640 49] iPhone6, [000001E7B1EDA600][000001E7B06E4680 49] iPodTouch6, [000001E7B1E8B200][000001E7B06F0940 49] iPhone7, [000001E7B1E8AF00][000001E7B06EC980 49] iPodTouch7, [000001E7B1EDBE00][000001E7B06ACAC0 49] iPhone5S, [000001E7B1E8BF00][000001E7B06F4C00 49] iPhone6Plus, [000001E7B1ED9700][000001E7B06F8D40 49] iPhone6S, [000001E7B1E89000][000001E7B06FCE80 49] iPhone6SPlus, [000001E7B1ED8F00][000001E7B0705000 49] iPhone7Plus, [000001E7B1E88900][000001E7B0709180 49] iPhoneSE, [000001E7B1EDB600][000001E7B070D300 49] iPhone8, [000001E7B1E8B700][000001E7B0711480 49] iPhone8Plus, [000001E7B1ED9C00][000001E7B0715600 49] iPhoneX, [000001E7B1E8B900][000001E7B0719780 49] iPhoneXS, [000001E7B1EDB500][000001E7B071D900 49] iPhoneXSMax, [000001E7B1E89500][000001E7B0013A80 49] iPhoneXR, [000001E7B1ED8400][000001E7B0017C00 49] iPhone11, [000001E7B1E89A00][000001E7B001A0C0 49] iPhone11Pro, [000001E7B1ED8700][000001E7B001E240 49] iPhone11ProMax, [000001E7B1E89800][000001E7B00223C0 49] iPhoneSE2, [000001E7B1ED8600][000001E7B0026540 49] iPhone12Mini, [000001E7B1E8B100][000001E7B002A6C0 49] iPhone12, [000001E7B1ED8300][000001E7B002E840 49] iPhone12Pro, [000001E7B1E8AC00][000001E7B00329C0 49] iPhone12ProMax, [000001E7B1ED9600][000001E7B0700B00 49] iPadPro105, [000001E7B1E8B000][000001E7B0036C40 49] iPadPro129, [000001E7B1EDBB00][000001E7B003AD80 49] iPadPro97, [000001E7B1E88700][000001E7B003EEC0 49] iPadPro2_129, [000001E7B1EDAE00][000001E7B0047040 49] iPad5, [000001E7B1E88400][000001E7B004B1C0 49] iPad6, [000001E7B1EDB800][000001E7B004F340 49] iPad7, [000001E7B1E88100][000001E7B00534C0 49] iPad8, [000001E7B1ED8500][000001E7B0057640 49] iPadPro11, [000001E7B1E8A300][000001E7B005B7C0 49] iPadPro2_11, [000001E7B1EDA200][000001E7B005F940 49] iPadPro3_129, [000001E7B1E8AB00][000001E7B0063AC0 49] iPadPro4_129, [000001E7B1EDAC00][000001E7B0067C40 49] AppleTV, [000001E7B1E88B00][000001E7B006A100 49] AppleTV4K, [000001E7B1ED8C00][000001E7B006E280 49] TVOS, [000001E7B1E88800][000001E7B0072400 49] Mac, [000001E7B1ED9500][000001E7B0076580 49] MacClient, [000001E7B1E8B400][000001E7B007A700 49] MacNoEditor, [000001E7B1EDAA00][000001E7B007E880 49] MacServer, [000001E7B1FE4400][000001E7B0082A00 49] Linux, [000001E7B1EE8C00][000001E7B0086B80 49] LinuxNoEditor, [000001E7B1FE4E00][000001E7B0042CC0 49] LinuxAArch64NoEditor, [000001E7B1EEB700][000001E7B008AE00 49] LinuxClient, [000001E7B1FE4300][000001E7B008EF40 49] LinuxAArch64Client, [000001E7B1EEA900][000001E7B00970C0 49] LinuxServer, [000001E7B1FE5100][000001E7B009B240 49] LinuxAArch64Server, [000001E7B1EE8E00][000001E7B009F3C0 49] Android, [000001E7B1FE4A00][000001E7B00A3540 49] Android_Low, [000001E7B1EE9A00][000001E7B00A76C0 49] Android_Mid, [000001E7B1FE4D00][000001E7B00AB840 49] Android_High, [000001E7B1EE8F00][000001E7B00AF9C0 49] Android_Default, [000001E7B1E89B00][000001E7B00B3B40 49] Android_Adreno4xx, [000001E7B1EE9100][000001E7B00B7CC0 49] Android_Adreno5xx_Low, [000001E7B1E8BB00][000001E7B00BA180 49] Android_Adreno5xx, [000001E7B1EEA800][000001E7B00BE300 49] Android_Adreno6xx, [000001E7B1E8AA00][000001E7B00C2480 49] Android_Adreno6xx_Vulkan, [000001E7B1EE8100][000001E7B00C6600 49] Android_Mali_T6xx, [000001E7B1E89900][000001E7B00CA780 49] Android_Mali_T7xx, [000001E7B1EEBF00][000001E7B00CE900 49] Android_Mali_T8xx, [000001E7B1E8A100][000001E7B00D2A80 49] Android_Mali_G71, [000001E7B1EE8600][000001E7B00D6C00 49] Android_Mali_G72, [000001E7B1E89100][000001E7B0092D40 49] Android_Mali_G72_Vulkan, [000001E7B1EE9000][000001E7B00DAE80 49] Android_Mali_G76, [000001E7B1E89D00][000001E7B00DEFC0 49] Android_Mali_G76_Vulkan, [000001E7B1EEBC00][000001E7B00E7140 49] Android_Mali_G77, [000001E7B1E88600][000001E7B00EB2C0 49] Android_Mali_G77_Vulkan, [000001E7B1EEB500][000001E7B00EF440 49] Android_Vulkan_SM5, [000001E7B1E8A000][000001E7B00F35C0 49] Android_PowerVR_G6xxx, [000001E7B1EEB600][000001E7B00F7740 49] Android_PowerVR_GT7xxx, [000001E7B1E8BE00][000001E7B00FB8C0 49] Android_PowerVR_GE8xxx, [000001E7B1EEB200][000001E7B00FFA40 49] Android_PowerVR_GM9xxx, [000001E7B1E8A600][000001E7B0103BC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001E7B1EEAA00][000001E7B0107D40 49] Android_TegraK1, [000001E7B1E8AD00][000001E7B010A200 49] Android_Unknown_Vulkan, [000001E7B1EE8A00][000001E7B010E380 49] Lumin, [000001E7B1E8BC00][000001E7B0112500 49] Lumin_Desktop, [000001E7B1EE8800][000001E7B0116680 49] HoloLens, 
+[2021.05.16-12.16.15:580][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.16-12.16.15:580][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.16-12.16.15:580][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.16-12.16.15:580][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.16-12.16.15:583][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.16-12.16.17:350][  0]LogNetVersion: Data2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2704931400)
+[2021.05.16-12.16.37:819][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.16-12.16.40:722][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 2.547007 seconds
+[2021.05.16-12.16.40:861][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.05.16-12.16.41:006][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.05.16-12.16.41:006][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.16-12.16.55:442][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.16-12.16.55:470][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.16-12.16.57:203][  0]SourceControl: Source control is disabled
+[2021.05.16-12.16.57:203][  0]SourceControl: Source control is disabled
+[2021.05.16-12.16.57:236][  0]SourceControl: Source control is disabled
+[2021.05.16-12.16.57:456][  0]SourceControl: Source control is disabled
+[2021.05.16-12.16.57:703][  0]SourceControl: Source control is disabled
+[2021.05.16-12.16.57:738][  0]LogUProjectInfo: Found projects:
+[2021.05.16-12.16.57:771][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.16-12.16.57:772][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.16-12.17.02:219][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.16-12.17.02:389][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.16-12.17.02:389][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.16-12.17.03:146][  0]LogCollectionManager: Loaded 0 collections in 0.016908 seconds
+[2021.05.16-12.17.03:433][  0]LogFileCache: Scanning file cache for directory 'D:/jeux vidéos/Data/Data2/Saved/Collections/' took 0.05s
+[2021.05.16-12.17.03:433][  0]LogFileCache: Scanning file cache for directory 'D:/jeux vidéos/Data/Data2/Content/Developers/Léa/Collections/' took 0.00s
+[2021.05.16-12.17.03:433][  0]LogFileCache: Scanning file cache for directory 'D:/jeux vidéos/Data/Data2/Content/Collections/' took 0.00s
+[2021.05.16-12.17.03:433][  0]LogOcInput: OculusInput pre-init called
+[2021.05.16-12.17.03:532][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.16-12.17.03:532][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.16-12.17.05:534][  0]LogEngine: Initializing Engine...
+[2021.05.16-12.17.05:588][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.16-12.17.05:602][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.16-12.17.05:672][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.017 s
+[2021.05.16-12.17.06:813][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.16-12.17.07:741][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.16-12.17.07:874][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.16-12.17.08:034][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.16-12.17.08:034][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.16-12.17.08:039][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-12.17.08:039][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-12.17.08:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-12.17.08:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-12.17.08:039][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-12.17.08:039][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-12.17.08:039][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-12.17.08:047][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-12.17.08:079][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-12.17.08:080][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-12.17.08:436][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-12.17.08:436][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-12.17.08:508][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Conexant SmartAudio HD)
+[2021.05.16-12.17.08:553][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-12.17.08:604][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-12.17.08:606][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-12.17.08:611][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-12.17.08:613][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.16-12.17.08:613][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.16-12.17.08:614][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.16-12.17.08:614][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.16-12.17.08:614][  0]LogInit: FAudioDevice initialized.
+[2021.05.16-12.17.08:691][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-12.17.08:691][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.16-12.17.08:696][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.16-12.17.08:863][  0]LogDerivedDataCache: Saved boot cache 0.17s 77MB C:/Users/Léa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.16-12.17.08:864][  0]LogInit: Texture streaming: Enabled
+[2021.05.16-12.17.09:038][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.05.16-12.17.09:098][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.16-12.17.09:115][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.16-12.17.09:179][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.16-12.17.09:482][  0]LogInit: Transaction tracking system initialized
+[2021.05.16-12.17.10:035][  0]BlueprintLog: New page: Editor Load
+[2021.05.16-12.17.14:429][  0]LocalizationService: Localization service is disabled
+[2021.05.16-12.17.15:009][  0]TimingProfiler: Initialize
+[2021.05.16-12.17.15:010][  0]TimingProfiler: OnSessionChanged
+[2021.05.16-12.17.15:010][  0]LoadingProfiler: Initialize
+[2021.05.16-12.17.15:010][  0]LoadingProfiler: OnSessionChanged
+[2021.05.16-12.17.15:010][  0]NetworkingProfiler: Initialize
+[2021.05.16-12.17.15:011][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.16-12.17.15:011][  0]MemoryProfiler: Initialize
+[2021.05.16-12.17.15:011][  0]MemoryProfiler: OnSessionChanged
+[2021.05.16-12.17.15:076][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.05.16-12.17.15:076][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.05.16-12.17.16:004][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.16-12.17.16:006][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.16-12.17.19:136][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.16-12.17.19:136][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.16-12.17.21:040][  0]LogFileCache: Scanning file cache for directory 'D:/jeux vidéos/Data/Data2/Content/' took 1.30s
+[2021.05.16-12.17.28:375][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.16-12.17.28:610][  0]SourceControl: Source control is disabled
+[2021.05.16-12.17.28:669][  0]LogUnrealEdMisc: Loading editor; pre map load, took 172.631
+[2021.05.16-12.17.28:724][  0]Cmd: MAP LOAD FILE="../../../../../jeux vidéos/Data/Data2/Content/ThirdPersonBP/Maps/CarteTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.16-12.17.28:826][  0]LightingResults: New page: Lighting Build
+[2021.05.16-12.17.29:122][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-12.17.29:215][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-12.17.29:365][  0]MapCheck: New page: Map Check
+[2021.05.16-12.17.29:365][  0]LightingResults: New page: Lighting Build
+[2021.05.16-12.17.30:334][  0]LogUObjectHash: Compacting FUObjectHashTables data took  14.65ms
+[2021.05.16-12.17.36:509][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarteTest'.
+[2021.05.16-12.17.36:529][  0]LogAIModule: Creating AISystem for world CarteTest
+[2021.05.16-12.17.43:650][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.05.16-12.17.44:011][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-580.000 Y=250.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2021.05.16-12.17.44:659][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.05.16-12.17.44:779][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.16-12.17.44:809][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 28,99ms to complete.
+[2021.05.16-12.17.44:809][  0]LogFileHelpers: Loading map 'CarteTest' took 16.109
+[2021.05.16-12.17.47:598][  0]LogUnrealEdMisc: Total Editor Startup Time, took 191.561
+[2021.05.16-12.17.49:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-12.17.49:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-12.17.49:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-12.17.49:704][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-12.17.50:186][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0162 seconds. Added 3601 classes and 859 folders.
+[2021.05.16-12.17.50:465][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.05.16-12.17.50:690][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.16-12.17.50:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-12.17.50:699][  0]LogPakFile: OnPakFileMounted2Time == 0.008724
+[2021.05.16-12.17.50:719][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.16-12.17.50:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.16-12.17.50:719][  0]LogPakFile: OnPakFileMounted2Time == 0.008730
+[2021.05.16-12.17.50:775][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.16-12.17.50:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.16-12.17.50:775][  0]LogPakFile: OnPakFileMounted2Time == 0.008736
+[2021.05.16-12.17.50:816][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-12.17.50:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-12.17.50:816][  0]LogPakFile: OnPakFileMounted2Time == 0.008742
+[2021.05.16-12.17.50:829][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.16-12.17.50:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.16-12.17.50:829][  0]LogPakFile: OnPakFileMounted2Time == 0.008747
+[2021.05.16-12.17.50:832][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.16-12.17.50:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.16-12.17.50:832][  0]LogPakFile: OnPakFileMounted2Time == 0.008753
+[2021.05.16-12.17.50:856][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.16-12.17.50:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.16-12.17.50:856][  0]LogPakFile: OnPakFileMounted2Time == 0.008758
+[2021.05.16-12.17.50:860][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.16-12.17.50:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.16-12.17.50:860][  0]LogPakFile: OnPakFileMounted2Time == 0.008764
+[2021.05.16-12.17.50:873][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.16-12.17.50:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.16-12.17.50:873][  0]LogPakFile: OnPakFileMounted2Time == 0.008770
+[2021.05.16-12.17.50:894][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.16-12.17.50:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.16-12.17.50:895][  0]LogPakFile: OnPakFileMounted2Time == 0.008775
+[2021.05.16-12.17.50:912][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.16-12.17.50:912][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:912][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.16-12.17.50:912][  0]LogPakFile: OnPakFileMounted2Time == 0.008781
+[2021.05.16-12.17.50:915][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.16-12.17.50:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.16-12.17.50:915][  0]LogPakFile: OnPakFileMounted2Time == 0.008786
+[2021.05.16-12.17.50:947][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-12.17.50:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-12.17.50:947][  0]LogPakFile: OnPakFileMounted2Time == 0.008792
+[2021.05.16-12.17.50:951][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.16-12.17.50:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.16-12.17.50:951][  0]LogPakFile: OnPakFileMounted2Time == 0.008798
+[2021.05.16-12.17.50:966][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.16-12.17.50:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.16-12.17.50:966][  0]LogPakFile: OnPakFileMounted2Time == 0.008803
+[2021.05.16-12.17.50:970][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.16-12.17.50:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-12.17.50:970][  0]LogPakFile: OnPakFileMounted2Time == 0.008808
+[2021.05.16-12.17.50:974][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.16-12.17.50:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.16-12.17.50:974][  0]LogPakFile: OnPakFileMounted2Time == 0.008815
+[2021.05.16-12.17.50:979][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.16-12.17.50:979][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.50:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.16-12.17.50:979][  0]LogPakFile: OnPakFileMounted2Time == 0.008820
+[2021.05.16-12.17.51:039][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-12.17.51:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-12.17.51:039][  0]LogPakFile: OnPakFileMounted2Time == 0.008826
+[2021.05.16-12.17.51:043][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-12.17.51:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-12.17.51:043][  0]LogPakFile: OnPakFileMounted2Time == 0.008832
+[2021.05.16-12.17.51:047][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.16-12.17.51:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.16-12.17.51:047][  0]LogPakFile: OnPakFileMounted2Time == 0.008837
+[2021.05.16-12.17.51:051][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.16-12.17.51:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.16-12.17.51:051][  0]LogPakFile: OnPakFileMounted2Time == 0.008843
+[2021.05.16-12.17.51:075][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.16-12.17.51:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.16-12.17.51:075][  0]LogPakFile: OnPakFileMounted2Time == 0.008849
+[2021.05.16-12.17.51:079][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.16-12.17.51:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.16-12.17.51:080][  0]LogPakFile: OnPakFileMounted2Time == 0.008855
+[2021.05.16-12.17.51:084][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.16-12.17.51:084][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:084][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.16-12.17.51:084][  0]LogPakFile: OnPakFileMounted2Time == 0.008861
+[2021.05.16-12.17.51:088][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.16-12.17.51:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.16-12.17.51:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.16-12.17.51:088][  0]LogPakFile: OnPakFileMounted2Time == 0.008867
+[2021.05.16-12.17.52:630][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.05.16-12.17.52:741][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 0 folders.
+[2021.05.16-12.17.53:667][  0]LogSlate: Took 0.042954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.16-12.17.53:695][  0]LogSlate: Took 0.015839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.16-12.17.53:755][  0]LogSlate: Took 0.012476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.16-12.17.53:836][  0]LogSlate: Took 0.066692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.16-12.17.55:505][  0]LogRenderer: Reallocating scene render targets to support 936x296 Format 10 NumSamples 1 (Frame:1).
+[2021.05.16-12.17.56:362][  0]LogSlate: Took 0.006066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.16-12.17.57:056][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.16-12.17.57:056][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.16-12.17.57:056][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.16-12.17.57:056][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.16-12.17.57:078][  0]LogLoad: (Engine Initialization) Total time: 201.03 seconds
+[2021.05.16-12.17.57:078][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.16-12.17.57:087][  0]LogInit: First time updating LLM stats...
+[2021.05.16-12.17.57:945][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.16-12.17.58:712][  2]LogAssetRegistry: Asset discovery search completed in 122.1813 seconds
+[2021.05.16-12.17.58:748][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2021.05.16-12.27.48:752][751]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.16-12.27.57:779][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.05.16-12.28.00:499][778]LogSavePackage: Moving '../../../../../jeux vidéos/Data/Data2/Saved/CarteTest_Auto14ABDDDC04F7D8080554A7995C3900B90.tmp' to '../../../../../jeux vidéos/Data/Data2/Saved/Autosaves/Game/ThirdPersonBP/Maps/CarteTest_Auto1.umap'
+[2021.05.16-12.28.00:642][778]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/CarteTest' took 2.886
+[2021.05.16-12.28.00:642][778]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.886
+[2021.05.16-13.05.04:729][481]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/CarteTest.CarteTest:PersistentLevel.CarteTest
+[2021.05.16-13.05.06:109][481]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2021.05.16-13.05.09:217][481]LogSlate: Took 0.009475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.16-13.05.14:061][654]LogSlate: Took 0.092722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.16-13.05.23:380][260]BlueprintLog: New page: Compile CarteTest
+[2021.05.16-13.05.24:019][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.05.16-13.05.24:843][260]LogSlate: Took 0.015096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.16-13.05.25:666][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/CarteTest" FILE="../../../../../jeux vidéos/Data/Data2/Content/ThirdPersonBP/Maps/CarteTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.16-13.05.25:703][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.05.16-13.05.27:440][313]LogSavePackage: Moving '../../../../../jeux vidéos/Data/Data2/Saved/CarteTestA836EA554068396552A4EA82D87601AC.tmp' to '../../../../../jeux vidéos/Data/Data2/Content/ThirdPersonBP/Maps/CarteTest.umap'
+[2021.05.16-13.05.27:555][313]LogFileHelpers: Saving map 'CarteTest' took 1.892
+[2021.05.16-13.05.28:641][313]AssetCheck: New page: Asset Save: CarteTest
+[2021.05.16-13.05.28:641][313]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/CarteTest.CarteTest
+[2021.05.16-13.05.34:094][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.05.16-13.05.34:990][529]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Question0.Question0
+[2021.05.16-13.05.35:018][529]Cmd: MAP LOAD FILE="../../../../../jeux vidéos/Data/Data2/Content/Map/Question0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.16-13.05.35:020][529]LightingResults: New page: Lighting Build
+[2021.05.16-13.05.35:067][529]LoadErrors: New page: Loading map: Question0.umap
+[2021.05.16-13.05.35:751][529]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.05.35:797][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.05.36:245][529]LogWorld: UWorld::CleanupWorld for CarteTest, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.05.36:304][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.05.36:346][529]MapCheck: New page: Map Check
+[2021.05.16-13.05.36:346][529]LightingResults: New page: Lighting Build
+[2021.05.16-13.05.36:417][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.05.36:918][529]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.05.16-13.05.37:047][529]LogAudio: Display: Audio Device (ID: 1) registered with world 'Question0'.
+[2021.05.16-13.05.37:569][529]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.16-13.05.37:570][529]LogAIModule: Creating AISystem for world Question0
+[2021.05.16-13.05.37:808][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.05.16-13.05.37:842][529]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.16-13.05.37:843][529]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,157ms to complete.
+[2021.05.16-13.05.37:843][529]LogFileHelpers: Loading map 'Question0' took 2.853
+[2021.05.16-13.05.39:620][617]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.16-13.05.39:794][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-13.05.39:828][617]PIE: New page: PIE session: Question0 (16 mai 2021 à 17:05:39)
+[2021.05.16-13.05.40:031][617]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.16-13.05.41:895][617]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.16-13.05.41:963][617]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Question0
+[2021.05.16-13.05.42:009][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035112s)
+[2021.05.16-13.05.42:012][617]LogAIModule: Creating AISystem for world Question0
+[2021.05.16-13.05.42:067][617]LogPlayLevel: PIE: World Init took: (0.058385s)
+[2021.05.16-13.05.42:069][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Question0.Question0 to /Game/Map/UEDPIE_0_Question0.Question0 (0.104902s)
+[2021.05.16-13.05.42:117][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.05.16-13.05.42:149][617]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.16-13.05.42:207][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-13.05.42:207][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-13.05.42:207][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-13.05.42:207][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-13.05.42:207][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-13.05.42:207][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-13.05.42:207][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-13.05.42:219][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-13.05.42:287][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-13.05.42:287][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-13.05.42:367][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-13.05.42:367][617]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-13.05.42:432][617]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Conexant SmartAudio HD)
+[2021.05.16-13.05.42:474][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-13.05.42:474][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-13.05.42:479][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-13.05.42:490][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-13.05.42:490][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.16-13.05.42:490][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.16-13.05.42:500][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.16-13.05.42:500][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.16-13.05.42:500][617]LogInit: FAudioDevice initialized.
+[2021.05.16-13.05.42:549][617]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-13.05.42:549][617]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question0'.
+[2021.05.16-13.05.42:852][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-13.05.42:874][617]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.05.43:103][617]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question0.Question0 up for play (max tick rate 0) at 2021.05.16-15.05.43
+[2021.05.16-13.05.43:132][617]LogWorld: Bringing up level for play took: 0.014534
+[2021.05.16-13.05.43:148][617]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.05.16-13.05.43:422][617]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.05.16-13.05.44:055][617]PIE: Server logged in
+[2021.05.16-13.05.44:057][617]PIE: Play in editor total start time 4,346 seconds.
+[2021.05.16-13.05.44:541][618]LogRenderer: Reallocating scene render targets to support 1192x696 Format 10 NumSamples 1 (Frame:1).
+[2021.05.16-13.05.49:706][845]LogNet: Browse: /Game/Map/Question1
+[2021.05.16-13.05.49:707][845]LogLoad: LoadMap: /Game/Map/Question1
+[2021.05.16-13.05.49:707][845]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question0
+[2021.05.16-13.05.49:724][845]LogWorld: UWorld::CleanupWorld for Question0, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.05.49:724][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.05.49:870][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.05.49:950][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.05.16-13.05.50:192][845]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question1'.
+[2021.05.16-13.05.50:193][845]LogAIModule: Creating AISystem for world Question1
+[2021.05.16-13.05.50:194][845]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.05.50:197][845]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question1.Question1 up for play (max tick rate 0) at 2021.05.16-15.05.50
+[2021.05.16-13.05.50:197][845]LogWorld: Bringing up level for play took: 0.002326
+[2021.05.16-13.05.50:198][845]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.05.50:201][845]LogLoad: Took 0.494287 seconds to LoadMap(/Game/Map/Question1)
+[2021.05.16-13.05.54:883][100]LogNet: Browse: /Game/Map/Question2
+[2021.05.16-13.05.54:883][100]LogLoad: LoadMap: /Game/Map/Question2
+[2021.05.16-13.05.54:883][100]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question1
+[2021.05.16-13.05.54:884][100]LogWorld: UWorld::CleanupWorld for Question1, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.05.54:884][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.05.54:919][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.05.55:299][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.05.16-13.05.55:390][100]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question2'.
+[2021.05.16-13.05.55:428][100]LogAIModule: Creating AISystem for world Question2
+[2021.05.16-13.05.55:428][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.05.55:430][100]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question2.Question2 up for play (max tick rate 0) at 2021.05.16-15.05.55
+[2021.05.16-13.05.55:430][100]LogWorld: Bringing up level for play took: 0.000848
+[2021.05.16-13.05.55:431][100]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.05.55:434][100]LogLoad: Took 0.550897 seconds to LoadMap(/Game/Map/Question2)
+[2021.05.16-13.05.57:909][232]LogNet: Browse: /Game/Map/Question3
+[2021.05.16-13.05.57:909][232]LogLoad: LoadMap: /Game/Map/Question3
+[2021.05.16-13.05.57:909][232]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question2
+[2021.05.16-13.05.57:909][232]LogWorld: UWorld::CleanupWorld for Question2, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.05.57:909][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.05.57:940][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.05.57:947][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.05.16-13.05.58:119][232]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question3'.
+[2021.05.16-13.05.58:120][232]LogAIModule: Creating AISystem for world Question3
+[2021.05.16-13.05.58:121][232]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.05.58:122][232]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question3.Question3 up for play (max tick rate 0) at 2021.05.16-15.05.58
+[2021.05.16-13.05.58:122][232]LogWorld: Bringing up level for play took: 0.001041
+[2021.05.16-13.05.58:123][232]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.05.58:126][232]LogLoad: Took 0.216615 seconds to LoadMap(/Game/Map/Question3)
+[2021.05.16-13.06.04:067][554]LogNet: Browse: /Game/Map/Question4
+[2021.05.16-13.06.04:067][554]LogLoad: LoadMap: /Game/Map/Question4
+[2021.05.16-13.06.04:067][554]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question3
+[2021.05.16-13.06.04:068][554]LogWorld: UWorld::CleanupWorld for Question3, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.06.04:068][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.06.04:103][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.06.04:107][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.05.16-13.06.04:352][554]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question4'.
+[2021.05.16-13.06.04:353][554]LogAIModule: Creating AISystem for world Question4
+[2021.05.16-13.06.04:354][554]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.06.04:356][554]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question4.Question4 up for play (max tick rate 0) at 2021.05.16-15.06.04
+[2021.05.16-13.06.04:356][554]LogWorld: Bringing up level for play took: 0.001147
+[2021.05.16-13.06.04:357][554]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.06.04:359][554]LogLoad: Took 0.292202 seconds to LoadMap(/Game/Map/Question4)
+[2021.05.16-13.06.22:644][580]LogNet: Browse: /Game/Map/Question5
+[2021.05.16-13.06.22:645][580]LogLoad: LoadMap: /Game/Map/Question5
+[2021.05.16-13.06.22:645][580]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question4
+[2021.05.16-13.06.22:645][580]LogWorld: UWorld::CleanupWorld for Question4, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.06.22:645][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.06.22:681][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.06.22:686][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.05.16-13.06.22:800][580]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question5'.
+[2021.05.16-13.06.22:801][580]LogAIModule: Creating AISystem for world Question5
+[2021.05.16-13.06.22:801][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.06.22:803][580]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question5.Question5 up for play (max tick rate 0) at 2021.05.16-15.06.22
+[2021.05.16-13.06.22:803][580]LogWorld: Bringing up level for play took: 0.001023
+[2021.05.16-13.06.22:804][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.06.22:807][580]LogLoad: Took 0.162230 seconds to LoadMap(/Game/Map/Question5)
+[2021.05.16-13.07.02:383][802]LogNet: Browse: /Game/Map/Question6
+[2021.05.16-13.07.02:384][802]LogLoad: LoadMap: /Game/Map/Question6
+[2021.05.16-13.07.02:384][802]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question5
+[2021.05.16-13.07.02:385][802]LogWorld: UWorld::CleanupWorld for Question5, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.02:385][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.02:422][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.02:427][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.05.16-13.07.02:578][802]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question6'.
+[2021.05.16-13.07.02:580][802]LogAIModule: Creating AISystem for world Question6
+[2021.05.16-13.07.02:580][802]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.02:582][802]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question6.Question6 up for play (max tick rate 0) at 2021.05.16-15.07.02
+[2021.05.16-13.07.02:582][802]LogWorld: Bringing up level for play took: 0.000908
+[2021.05.16-13.07.02:583][802]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.02:586][802]LogLoad: Took 0.201969 seconds to LoadMap(/Game/Map/Question6)
+[2021.05.16-13.07.05:724][975]LogNet: Browse: /Game/Map/Question7
+[2021.05.16-13.07.05:724][975]LogLoad: LoadMap: /Game/Map/Question7
+[2021.05.16-13.07.05:724][975]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question6
+[2021.05.16-13.07.05:725][975]LogWorld: UWorld::CleanupWorld for Question6, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.05:726][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.05:766][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.05:770][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.05.16-13.07.05:837][975]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question7'.
+[2021.05.16-13.07.05:838][975]LogAIModule: Creating AISystem for world Question7
+[2021.05.16-13.07.05:839][975]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.05:840][975]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question7.Question7 up for play (max tick rate 0) at 2021.05.16-15.07.05
+[2021.05.16-13.07.05:841][975]LogWorld: Bringing up level for play took: 0.000851
+[2021.05.16-13.07.05:841][975]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.05:844][975]LogLoad: Took 0.120334 seconds to LoadMap(/Game/Map/Question7)
+[2021.05.16-13.07.12:024][315]LogNet: Browse: /Game/Map/Question9
+[2021.05.16-13.07.12:025][315]LogLoad: LoadMap: /Game/Map/Question9
+[2021.05.16-13.07.12:025][315]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question7
+[2021.05.16-13.07.12:026][315]LogWorld: UWorld::CleanupWorld for Question7, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.12:026][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.12:064][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.12:069][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.05.16-13.07.12:248][315]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question9'.
+[2021.05.16-13.07.12:250][315]LogAIModule: Creating AISystem for world Question9
+[2021.05.16-13.07.12:250][315]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.12:252][315]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question9.Question9 up for play (max tick rate 0) at 2021.05.16-15.07.12
+[2021.05.16-13.07.12:252][315]LogWorld: Bringing up level for play took: 0.000949
+[2021.05.16-13.07.12:252][315]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.12:255][315]LogLoad: Took 0.230812 seconds to LoadMap(/Game/Map/Question9)
+[2021.05.16-13.07.19:229][703]LogNet: Browse: /Game/Map/Question11
+[2021.05.16-13.07.19:229][703]LogLoad: LoadMap: /Game/Map/Question11
+[2021.05.16-13.07.19:229][703]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question9
+[2021.05.16-13.07.19:230][703]LogWorld: UWorld::CleanupWorld for Question9, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.19:230][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.19:270][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.19:274][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.16-13.07.19:389][703]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question11'.
+[2021.05.16-13.07.19:390][703]LogAIModule: Creating AISystem for world Question11
+[2021.05.16-13.07.19:390][703]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.19:392][703]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question11.Question11 up for play (max tick rate 0) at 2021.05.16-15.07.19
+[2021.05.16-13.07.19:393][703]LogWorld: Bringing up level for play took: 0.001231
+[2021.05.16-13.07.19:393][703]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.19:397][703]LogLoad: Took 0.167205 seconds to LoadMap(/Game/Map/Question11)
+[2021.05.16-13.07.25:585][ 45]LogNet: Browse: /Game/Map/Question13
+[2021.05.16-13.07.25:585][ 45]LogLoad: LoadMap: /Game/Map/Question13
+[2021.05.16-13.07.25:585][ 45]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question11
+[2021.05.16-13.07.25:586][ 45]LogWorld: UWorld::CleanupWorld for Question11, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.25:586][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.25:622][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.25:627][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.05.16-13.07.25:779][ 45]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question13'.
+[2021.05.16-13.07.25:780][ 45]LogAIModule: Creating AISystem for world Question13
+[2021.05.16-13.07.25:780][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.25:782][ 45]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question13.Question13 up for play (max tick rate 0) at 2021.05.16-15.07.25
+[2021.05.16-13.07.25:782][ 45]LogWorld: Bringing up level for play took: 0.000910
+[2021.05.16-13.07.25:783][ 45]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.25:786][ 45]LogLoad: Took 0.200885 seconds to LoadMap(/Game/Map/Question13)
+[2021.05.16-13.07.38:753][774]LogNet: Browse: /Game/Map/Question14
+[2021.05.16-13.07.38:753][774]LogLoad: LoadMap: /Game/Map/Question14
+[2021.05.16-13.07.38:753][774]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question13
+[2021.05.16-13.07.38:754][774]LogWorld: UWorld::CleanupWorld for Question13, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.38:754][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.38:793][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.38:798][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.05.16-13.07.39:015][774]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question14'.
+[2021.05.16-13.07.39:017][774]LogAIModule: Creating AISystem for world Question14
+[2021.05.16-13.07.39:017][774]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.39:019][774]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question14.Question14 up for play (max tick rate 0) at 2021.05.16-15.07.39
+[2021.05.16-13.07.39:019][774]LogWorld: Bringing up level for play took: 0.001116
+[2021.05.16-13.07.39:020][774]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.39:022][774]LogLoad: Took 0.269089 seconds to LoadMap(/Game/Map/Question14)
+[2021.05.16-13.07.51:077][452]LogNet: Browse: /Game/Map/Question15
+[2021.05.16-13.07.51:077][452]LogLoad: LoadMap: /Game/Map/Question15
+[2021.05.16-13.07.51:077][452]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question14
+[2021.05.16-13.07.51:078][452]LogWorld: UWorld::CleanupWorld for Question14, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.51:078][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.51:117][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.51:121][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.05.16-13.07.51:139][452]LogAudio: Display: Audio Device (ID: 2) registered with world 'Question15'.
+[2021.05.16-13.07.51:141][452]LogAIModule: Creating AISystem for world Question15
+[2021.05.16-13.07.51:141][452]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.51:143][452]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question15.Question15 up for play (max tick rate 0) at 2021.05.16-15.07.51
+[2021.05.16-13.07.51:143][452]LogWorld: Bringing up level for play took: 0.001065
+[2021.05.16-13.07.51:144][452]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.51:147][452]LogLoad: Took 0.069431 seconds to LoadMap(/Game/Map/Question15)
+[2021.05.16-13.07.57:909][822]LogNet: Browse: /Game/Map/FinQuestion
+[2021.05.16-13.07.57:909][822]LogLoad: LoadMap: /Game/Map/FinQuestion
+[2021.05.16-13.07.57:909][822]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question15
+[2021.05.16-13.07.57:910][822]LogWorld: UWorld::CleanupWorld for Question15, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.07.57:910][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.07.57:935][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.07.57:939][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.05.16-13.07.58:007][822]LogAudio: Display: Audio Device (ID: 2) registered with world 'FinQuestion'.
+[2021.05.16-13.07.58:008][822]LogAIModule: Creating AISystem for world FinQuestion
+[2021.05.16-13.07.58:009][822]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.07.58:010][822]LogWorld: Bringing World /Game/Map/UEDPIE_0_FinQuestion.FinQuestion up for play (max tick rate 0) at 2021.05.16-15.07.58
+[2021.05.16-13.07.58:011][822]LogWorld: Bringing up level for play took: 0.001007
+[2021.05.16-13.07.58:011][822]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.07.58:013][822]LogLoad: Took 0.103802 seconds to LoadMap(/Game/Map/FinQuestion)
+[2021.05.16-13.08.01:868][ 34]LogNet: Browse: /Game/ThirdPersonBP/Maps/CarteTest
+[2021.05.16-13.08.01:868][ 34]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/CarteTest
+[2021.05.16-13.08.01:868][ 34]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_FinQuestion
+[2021.05.16-13.08.01:868][ 34]LogWorld: UWorld::CleanupWorld for FinQuestion, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.08.01:868][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.08.01:896][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.08.01:900][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.05.16-13.08.02:781][ 34]LogAudio: Display: Audio Device (ID: 2) registered with world 'CarteTest'.
+[2021.05.16-13.08.02:783][ 34]LogAIModule: Creating AISystem for world CarteTest
+[2021.05.16-13.08.02:812][ 34]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-13.08.04:623][ 34]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_CarteTest.CarteTest up for play (max tick rate 0) at 2021.05.16-15.08.04
+[2021.05.16-13.08.04:625][ 34]LogWorld: Bringing up level for play took: 1.812963
+[2021.05.16-13.08.04:743][ 34]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-13.08.04:850][ 34]LogLoad: Took 2.982009 seconds to LoadMap(/Game/ThirdPersonBP/Maps/CarteTest)
+[2021.05.16-13.10.16:324][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-13.10.16:324][396]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_CarteTest
+[2021.05.16-13.10.16:324][396]LogSlate: Window 'Data2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.16-13.10.16:363][396]LogWorld: UWorld::CleanupWorld for CarteTest, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.10.16:406][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.10.16:420][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-13.10.16:450][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.10.16:507][396]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.10.16:559][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.16-13.10.16:561][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.16-13.10.16:681][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.05.16-13.10.16:719][397]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.05.16-13.11.10:215][428]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Questionnaire/astro.astro
+[2021.05.16-13.11.38:208][488]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.11.38:208][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.11.38:223][488]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.11.38:223][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.15.07:953][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.05.16-13.15.10:340][ 37]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/CarteTest.CarteTest
+[2021.05.16-13.15.10:340][ 37]Cmd: MAP LOAD FILE="../../../../../jeux vidéos/Data/Data2/Content/ThirdPersonBP/Maps/CarteTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.16-13.15.10:341][ 37]LightingResults: New page: Lighting Build
+[2021.05.16-13.15.10:341][ 37]LoadErrors: New page: Loading map: CarteTest.umap
+[2021.05.16-13.15.10:342][ 37]LogWorld: UWorld::CleanupWorld for Question0, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-13.15.10:342][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-13.15.10:342][ 37]MapCheck: New page: Map Check
+[2021.05.16-13.15.10:342][ 37]LightingResults: New page: Lighting Build
+[2021.05.16-13.15.10:432][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-13.15.10:486][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2021.05.16-13.15.10:488][ 37]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarteTest'.
+[2021.05.16-13.15.12:969][ 37]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.16-13.15.12:969][ 37]LogAIModule: Creating AISystem for world CarteTest
+[2021.05.16-13.15.12:988][ 37]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-1160.000 Y=500.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2021.05.16-13.15.13:180][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.05.16-13.15.13:214][ 37]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.16-13.15.13:215][ 37]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,731ms to complete.
+[2021.05.16-13.15.13:215][ 37]LogFileHelpers: Loading map 'CarteTest' took 2.875
+[2021.05.16-13.15.17:122][309]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/CarteTest.CarteTest:PersistentLevel.CarteTest
+[2021.05.16-13.25.08:550][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.05.16-13.25.10:258][539]LogSavePackage: Moving '../../../../../jeux vidéos/Data/Data2/Saved/CarteTest_Auto2477C2F974F59ECCF5CD2B2929FBF36D0.tmp' to '../../../../../jeux vidéos/Data/Data2/Saved/Autosaves/Game/ThirdPersonBP/Maps/CarteTest_Auto2.umap'
+[2021.05.16-13.25.10:274][539]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/CarteTest' took 1.776
+[2021.05.16-13.25.10:275][539]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.776
+[2021.05.16-14.11.26:291][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.05.16-14.11.28:201][321]LogSlate: Window 'Save Content' being destroyed
+[2021.05.16-14.11.28:244][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/CarteTest" FILE="../../../../../jeux vidéos/Data/Data2/Content/ThirdPersonBP/Maps/CarteTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.16-14.11.28:291][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.16-14.11.30:031][321]LogSavePackage: Moving '../../../../../jeux vidéos/Data/Data2/Saved/CarteTestC451489F410E754F4F105981ACA2D226.tmp' to '../../../../../jeux vidéos/Data/Data2/Content/ThirdPersonBP/Maps/CarteTest.umap'
+[2021.05.16-14.11.30:098][321]LogFileHelpers: Saving map 'CarteTest' took 1.857
+[2021.05.16-14.11.30:158][321]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Question0.Question0
+[2021.05.16-14.11.30:159][321]Cmd: MAP LOAD FILE="../../../../../jeux vidéos/Data/Data2/Content/Map/Question0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.16-14.11.30:159][321]LightingResults: New page: Lighting Build
+[2021.05.16-14.11.30:159][321]LoadErrors: New page: Loading map: Question0.umap
+[2021.05.16-14.11.30:561][321]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.11.30:561][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.11.30:748][321]LogWorld: UWorld::CleanupWorld for CarteTest, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.11.30:749][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.11.30:752][321]MapCheck: New page: Map Check
+[2021.05.16-14.11.30:752][321]LightingResults: New page: Lighting Build
+[2021.05.16-14.11.30:817][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.11.30:904][321]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.05.16-14.11.30:948][321]LogAudio: Display: Audio Device (ID: 1) registered with world 'Question0'.
+[2021.05.16-14.11.30:952][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.16-14.11.30:952][321]LogAIModule: Creating AISystem for world Question0
+[2021.05.16-14.11.30:988][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.16-14.11.31:001][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.16-14.11.31:002][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
+[2021.05.16-14.11.31:002][321]LogFileHelpers: Loading map 'Question0' took 0.844
+[2021.05.16-14.11.31:069][321]AssetCheck: New page: Asset Save: CarteTest
+[2021.05.16-14.11.31:069][321]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/CarteTest.CarteTest
+[2021.05.16-14.11.34:694][380]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.16-14.11.34:705][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-14.11.34:705][380]PIE: New page: PIE session: Question0 (16 mai 2021 à 18:11:34)
+[2021.05.16-14.11.34:706][380]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Question0
+[2021.05.16-14.11.34:710][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004333s)
+[2021.05.16-14.11.34:712][380]LogAIModule: Creating AISystem for world Question0
+[2021.05.16-14.11.34:713][380]LogPlayLevel: PIE: World Init took: (0.002797s)
+[2021.05.16-14.11.34:713][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Question0.Question0 to /Game/Map/UEDPIE_0_Question0.Question0 (0.007393s)
+[2021.05.16-14.11.34:795][380]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.05.16-14.11.34:801][380]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.16-14.11.34:801][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-14.11.34:801][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-14.11.34:801][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-14.11.34:801][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-14.11.34:801][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-14.11.34:801][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-14.11.34:801][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-14.11.34:801][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-14.11.34:802][380]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-14.11.34:802][380]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-14.11.35:047][380]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-14.11.35:047][380]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-14.11.35:086][380]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Conexant SmartAudio HD)
+[2021.05.16-14.11.35:087][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-14.11.35:088][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-14.11.35:088][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-14.11.35:092][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-14.11.35:092][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.16-14.11.35:092][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.16-14.11.35:127][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.16-14.11.35:127][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.16-14.11.35:127][380]LogInit: FAudioDevice initialized.
+[2021.05.16-14.11.35:127][380]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question0'.
+[2021.05.16-14.11.35:175][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-14.11.35:176][380]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.11.35:177][380]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question0.Question0 up for play (max tick rate 60) at 2021.05.16-16.11.35
+[2021.05.16-14.11.35:178][380]LogWorld: Bringing up level for play took: 0.001129
+[2021.05.16-14.11.35:223][380]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.05.16-14.11.35:249][380]PIE: Server logged in
+[2021.05.16-14.11.35:252][380]PIE: Play in editor total start time 0,548 seconds.
+[2021.05.16-14.11.48:062][100]LogNet: Browse: /Game/Map/Question1
+[2021.05.16-14.11.48:062][100]LogLoad: LoadMap: /Game/Map/Question1
+[2021.05.16-14.11.48:062][100]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question0
+[2021.05.16-14.11.48:063][100]LogWorld: UWorld::CleanupWorld for Question0, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.11.48:063][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.11.48:110][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.11.48:116][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.05.16-14.11.48:137][100]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question1'.
+[2021.05.16-14.11.48:138][100]LogAIModule: Creating AISystem for world Question1
+[2021.05.16-14.11.48:139][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.11.48:141][100]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question1.Question1 up for play (max tick rate 60) at 2021.05.16-16.11.48
+[2021.05.16-14.11.48:141][100]LogWorld: Bringing up level for play took: 0.000941
+[2021.05.16-14.11.48:142][100]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.11.48:145][100]LogLoad: Took 0.083578 seconds to LoadMap(/Game/Map/Question1)
+[2021.05.16-14.11.53:458][392]LogNet: Browse: /Game/Map/Question2
+[2021.05.16-14.11.53:458][392]LogLoad: LoadMap: /Game/Map/Question2
+[2021.05.16-14.11.53:458][392]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question1
+[2021.05.16-14.11.53:459][392]LogWorld: UWorld::CleanupWorld for Question1, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.11.53:459][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.11.53:502][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.11.53:508][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.05.16-14.11.53:517][392]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question2'.
+[2021.05.16-14.11.53:518][392]LogAIModule: Creating AISystem for world Question2
+[2021.05.16-14.11.53:518][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.11.53:521][392]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question2.Question2 up for play (max tick rate 60) at 2021.05.16-16.11.53
+[2021.05.16-14.11.53:521][392]LogWorld: Bringing up level for play took: 0.001244
+[2021.05.16-14.11.53:521][392]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.11.53:524][392]LogLoad: Took 0.067089 seconds to LoadMap(/Game/Map/Question2)
+[2021.05.16-14.12.01:210][818]LogNet: Browse: /Game/Map/Question3
+[2021.05.16-14.12.01:211][818]LogLoad: LoadMap: /Game/Map/Question3
+[2021.05.16-14.12.01:211][818]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question2
+[2021.05.16-14.12.01:211][818]LogWorld: UWorld::CleanupWorld for Question2, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.12.01:211][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.12.01:276][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.12.01:281][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.05.16-14.12.01:289][818]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question3'.
+[2021.05.16-14.12.01:291][818]LogAIModule: Creating AISystem for world Question3
+[2021.05.16-14.12.01:292][818]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.12.01:293][818]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question3.Question3 up for play (max tick rate 60) at 2021.05.16-16.12.01
+[2021.05.16-14.12.01:294][818]LogWorld: Bringing up level for play took: 0.000963
+[2021.05.16-14.12.01:294][818]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.12.01:297][818]LogLoad: Took 0.086001 seconds to LoadMap(/Game/Map/Question3)
+[2021.05.16-14.12.19:397][831]LogNet: Browse: /Game/Map/Question4
+[2021.05.16-14.12.19:398][831]LogLoad: LoadMap: /Game/Map/Question4
+[2021.05.16-14.12.19:398][831]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question3
+[2021.05.16-14.12.19:398][831]LogWorld: UWorld::CleanupWorld for Question3, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.12.19:398][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.12.19:442][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.12.19:447][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.05.16-14.12.19:456][831]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question4'.
+[2021.05.16-14.12.19:458][831]LogAIModule: Creating AISystem for world Question4
+[2021.05.16-14.12.19:458][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.12.19:460][831]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question4.Question4 up for play (max tick rate 60) at 2021.05.16-16.12.19
+[2021.05.16-14.12.19:461][831]LogWorld: Bringing up level for play took: 0.001549
+[2021.05.16-14.12.19:461][831]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.12.19:464][831]LogLoad: Took 0.065851 seconds to LoadMap(/Game/Map/Question4)
+[2021.05.16-14.12.28:128][318]LogNet: Browse: /Game/Map/Question5
+[2021.05.16-14.12.28:128][318]LogLoad: LoadMap: /Game/Map/Question5
+[2021.05.16-14.12.28:128][318]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question4
+[2021.05.16-14.12.28:129][318]LogWorld: UWorld::CleanupWorld for Question4, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.12.28:130][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.12.28:180][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.12.28:185][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.05.16-14.12.28:194][318]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question5'.
+[2021.05.16-14.12.28:195][318]LogAIModule: Creating AISystem for world Question5
+[2021.05.16-14.12.28:195][318]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.12.28:197][318]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question5.Question5 up for play (max tick rate 60) at 2021.05.16-16.12.28
+[2021.05.16-14.12.28:197][318]LogWorld: Bringing up level for play took: 0.001134
+[2021.05.16-14.12.28:198][318]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.12.28:201][318]LogLoad: Took 0.072620 seconds to LoadMap(/Game/Map/Question5)
+[2021.05.16-14.12.43:861][192]LogNet: Browse: /Game/Map/Question6
+[2021.05.16-14.12.43:862][192]LogLoad: LoadMap: /Game/Map/Question6
+[2021.05.16-14.12.43:862][192]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question5
+[2021.05.16-14.12.43:862][192]LogWorld: UWorld::CleanupWorld for Question5, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.12.43:862][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.12.43:902][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.12.43:908][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.05.16-14.12.43:917][192]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question6'.
+[2021.05.16-14.12.43:918][192]LogAIModule: Creating AISystem for world Question6
+[2021.05.16-14.12.43:918][192]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.12.43:921][192]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question6.Question6 up for play (max tick rate 60) at 2021.05.16-16.12.43
+[2021.05.16-14.12.43:921][192]LogWorld: Bringing up level for play took: 0.000984
+[2021.05.16-14.12.43:921][192]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.12.43:924][192]LogLoad: Took 0.063164 seconds to LoadMap(/Game/Map/Question6)
+[2021.05.16-14.12.48:117][426]LogNet: Browse: /Game/Map/Question7
+[2021.05.16-14.12.48:117][426]LogLoad: LoadMap: /Game/Map/Question7
+[2021.05.16-14.12.48:117][426]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question6
+[2021.05.16-14.12.48:118][426]LogWorld: UWorld::CleanupWorld for Question6, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.12.48:118][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.12.48:187][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.12.48:192][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.05.16-14.12.48:201][426]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question7'.
+[2021.05.16-14.12.48:203][426]LogAIModule: Creating AISystem for world Question7
+[2021.05.16-14.12.48:203][426]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.12.48:204][426]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question7.Question7 up for play (max tick rate 60) at 2021.05.16-16.12.48
+[2021.05.16-14.12.48:205][426]LogWorld: Bringing up level for play took: 0.000906
+[2021.05.16-14.12.48:205][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.12.48:208][426]LogLoad: Took 0.089874 seconds to LoadMap(/Game/Map/Question7)
+[2021.05.16-14.12.55:475][833]LogNet: Browse: /Game/Map/Question9
+[2021.05.16-14.12.55:475][833]LogLoad: LoadMap: /Game/Map/Question9
+[2021.05.16-14.12.55:475][833]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question7
+[2021.05.16-14.12.55:476][833]LogWorld: UWorld::CleanupWorld for Question7, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.12.55:476][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.12.55:523][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.12.55:529][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.05.16-14.12.55:537][833]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question9'.
+[2021.05.16-14.12.55:538][833]LogAIModule: Creating AISystem for world Question9
+[2021.05.16-14.12.55:539][833]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.12.55:541][833]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question9.Question9 up for play (max tick rate 60) at 2021.05.16-16.12.55
+[2021.05.16-14.12.55:541][833]LogWorld: Bringing up level for play took: 0.001166
+[2021.05.16-14.12.55:542][833]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.12.55:544][833]LogLoad: Took 0.069109 seconds to LoadMap(/Game/Map/Question9)
+[2021.05.16-14.13.06:694][453]LogNet: Browse: /Game/Map/Question11
+[2021.05.16-14.13.06:694][453]LogLoad: LoadMap: /Game/Map/Question11
+[2021.05.16-14.13.06:694][453]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question9
+[2021.05.16-14.13.06:695][453]LogWorld: UWorld::CleanupWorld for Question9, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.13.06:695][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.13.06:739][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.13.06:744][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.05.16-14.13.06:752][453]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question11'.
+[2021.05.16-14.13.06:754][453]LogAIModule: Creating AISystem for world Question11
+[2021.05.16-14.13.06:754][453]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.13.06:756][453]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question11.Question11 up for play (max tick rate 60) at 2021.05.16-16.13.06
+[2021.05.16-14.13.06:756][453]LogWorld: Bringing up level for play took: 0.000937
+[2021.05.16-14.13.06:756][453]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.13.06:759][453]LogLoad: Took 0.065122 seconds to LoadMap(/Game/Map/Question11)
+[2021.05.16-14.13.18:036][ 77]LogNet: Browse: /Game/Map/Question13
+[2021.05.16-14.13.18:036][ 77]LogLoad: LoadMap: /Game/Map/Question13
+[2021.05.16-14.13.18:036][ 77]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question11
+[2021.05.16-14.13.18:036][ 77]LogWorld: UWorld::CleanupWorld for Question11, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.13.18:037][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.13.18:096][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.13.18:101][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.05.16-14.13.18:110][ 77]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question13'.
+[2021.05.16-14.13.18:111][ 77]LogAIModule: Creating AISystem for world Question13
+[2021.05.16-14.13.18:112][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.13.18:113][ 77]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question13.Question13 up for play (max tick rate 60) at 2021.05.16-16.13.18
+[2021.05.16-14.13.18:114][ 77]LogWorld: Bringing up level for play took: 0.000908
+[2021.05.16-14.13.18:114][ 77]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.13.18:117][ 77]LogLoad: Took 0.080671 seconds to LoadMap(/Game/Map/Question13)
+[2021.05.16-14.13.49:982][883]LogNet: Browse: /Game/Map/Question14
+[2021.05.16-14.13.49:982][883]LogLoad: LoadMap: /Game/Map/Question14
+[2021.05.16-14.13.49:982][883]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question13
+[2021.05.16-14.13.49:983][883]LogWorld: UWorld::CleanupWorld for Question13, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.13.49:983][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.13.50:024][883]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.13.50:030][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.05.16-14.13.50:041][883]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question14'.
+[2021.05.16-14.13.50:042][883]LogAIModule: Creating AISystem for world Question14
+[2021.05.16-14.13.50:043][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.13.50:044][883]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question14.Question14 up for play (max tick rate 60) at 2021.05.16-16.13.50
+[2021.05.16-14.13.50:044][883]LogWorld: Bringing up level for play took: 0.000916
+[2021.05.16-14.13.50:045][883]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.13.50:047][883]LogLoad: Took 0.065137 seconds to LoadMap(/Game/Map/Question14)
+[2021.05.16-14.13.53:386][ 67]LogNet: Browse: /Game/Map/Question15
+[2021.05.16-14.13.53:386][ 67]LogLoad: LoadMap: /Game/Map/Question15
+[2021.05.16-14.13.53:489][ 67]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question14
+[2021.05.16-14.13.53:490][ 67]LogWorld: UWorld::CleanupWorld for Question14, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.13.53:490][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.13.53:521][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.13.53:526][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.05.16-14.13.53:534][ 67]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question15'.
+[2021.05.16-14.13.53:535][ 67]LogAIModule: Creating AISystem for world Question15
+[2021.05.16-14.13.53:536][ 67]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.13.53:537][ 67]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question15.Question15 up for play (max tick rate 60) at 2021.05.16-16.13.53
+[2021.05.16-14.13.53:538][ 67]LogWorld: Bringing up level for play took: 0.000929
+[2021.05.16-14.13.53:538][ 67]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.13.53:542][ 67]LogLoad: Took 0.155121 seconds to LoadMap(/Game/Map/Question15)
+[2021.05.16-14.14.01:940][532]LogNet: Browse: /Game/Map/Question16
+[2021.05.16-14.14.01:940][532]LogLoad: LoadMap: /Game/Map/Question16
+[2021.05.16-14.14.01:941][532]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question15
+[2021.05.16-14.14.01:941][532]LogWorld: UWorld::CleanupWorld for Question15, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.14.01:942][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.14.01:988][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.14.01:994][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.05.16-14.14.02:140][532]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question16'.
+[2021.05.16-14.14.02:141][532]LogAIModule: Creating AISystem for world Question16
+[2021.05.16-14.14.02:142][532]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.14.02:143][532]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question16.Question16 up for play (max tick rate 60) at 2021.05.16-16.14.02
+[2021.05.16-14.14.02:143][532]LogWorld: Bringing up level for play took: 0.000943
+[2021.05.16-14.14.02:144][532]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.14.02:146][532]LogLoad: Took 0.206037 seconds to LoadMap(/Game/Map/Question16)
+[2021.05.16-14.14.04:788][677]LogNet: Browse: /Game/Map/Question17
+[2021.05.16-14.14.04:788][677]LogLoad: LoadMap: /Game/Map/Question17
+[2021.05.16-14.14.04:788][677]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question16
+[2021.05.16-14.14.04:789][677]LogWorld: UWorld::CleanupWorld for Question16, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.14.04:790][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.14.04:842][677]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.14.04:847][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.16-14.14.05:069][677]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question17'.
+[2021.05.16-14.14.05:070][677]LogAIModule: Creating AISystem for world Question17
+[2021.05.16-14.14.05:071][677]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.14.05:072][677]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question17.Question17 up for play (max tick rate 60) at 2021.05.16-16.14.05
+[2021.05.16-14.14.05:072][677]LogWorld: Bringing up level for play took: 0.000853
+[2021.05.16-14.14.05:073][677]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.14.05:075][677]LogLoad: Took 0.286354 seconds to LoadMap(/Game/Map/Question17)
+[2021.05.16-14.14.11:040][  3]LogNet: Browse: /Game/Map/Question18
+[2021.05.16-14.14.11:040][  3]LogLoad: LoadMap: /Game/Map/Question18
+[2021.05.16-14.14.11:040][  3]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question17
+[2021.05.16-14.14.11:041][  3]LogWorld: UWorld::CleanupWorld for Question17, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.14.11:041][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.14.11:089][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.14.11:095][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.05.16-14.14.11:136][  3]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question18'.
+[2021.05.16-14.14.11:137][  3]LogAIModule: Creating AISystem for world Question18
+[2021.05.16-14.14.11:138][  3]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.14.11:140][  3]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question18.Question18 up for play (max tick rate 60) at 2021.05.16-16.14.11
+[2021.05.16-14.14.11:140][  3]LogWorld: Bringing up level for play took: 0.001484
+[2021.05.16-14.14.11:141][  3]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.14.11:143][  3]LogLoad: Took 0.103054 seconds to LoadMap(/Game/Map/Question18)
+[2021.05.16-14.14.26:357][851]LogNet: Browse: /Game/Map/Question19
+[2021.05.16-14.14.26:357][851]LogLoad: LoadMap: /Game/Map/Question19
+[2021.05.16-14.14.26:357][851]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question18
+[2021.05.16-14.14.26:358][851]LogWorld: UWorld::CleanupWorld for Question18, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.14.26:358][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.14.26:423][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.14.26:429][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.05.16-14.14.26:573][851]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question19'.
+[2021.05.16-14.14.26:575][851]LogAIModule: Creating AISystem for world Question19
+[2021.05.16-14.14.26:575][851]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.14.26:577][851]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question19.Question19 up for play (max tick rate 60) at 2021.05.16-16.14.26
+[2021.05.16-14.14.26:577][851]LogWorld: Bringing up level for play took: 0.001136
+[2021.05.16-14.14.26:578][851]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.14.26:581][851]LogLoad: Took 0.223957 seconds to LoadMap(/Game/Map/Question19)
+[2021.05.16-14.14.49:152][116]LogNet: Browse: /Game/Map/Question20
+[2021.05.16-14.14.49:152][116]LogLoad: LoadMap: /Game/Map/Question20
+[2021.05.16-14.14.49:152][116]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question19
+[2021.05.16-14.14.49:154][116]LogWorld: UWorld::CleanupWorld for Question19, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.14.49:154][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.14.49:198][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.14.49:205][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.05.16-14.14.49:406][116]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question20'.
+[2021.05.16-14.14.49:408][116]LogAIModule: Creating AISystem for world Question20
+[2021.05.16-14.14.49:408][116]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.14.49:410][116]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question20.Question20 up for play (max tick rate 60) at 2021.05.16-16.14.49
+[2021.05.16-14.14.49:410][116]LogWorld: Bringing up level for play took: 0.001040
+[2021.05.16-14.14.49:411][116]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.14.49:414][116]LogLoad: Took 0.260744 seconds to LoadMap(/Game/Map/Question20)
+[2021.05.16-14.14.57:181][548]LogNet: Browse: /Game/Map/Question21
+[2021.05.16-14.14.57:181][548]LogLoad: LoadMap: /Game/Map/Question21
+[2021.05.16-14.14.57:181][548]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question20
+[2021.05.16-14.14.57:181][548]LogWorld: UWorld::CleanupWorld for Question20, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.14.57:182][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.14.57:227][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.14.57:233][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.05.16-14.14.57:244][548]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question21'.
+[2021.05.16-14.14.57:245][548]LogAIModule: Creating AISystem for world Question21
+[2021.05.16-14.14.57:246][548]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.14.57:247][548]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question21.Question21 up for play (max tick rate 60) at 2021.05.16-16.14.57
+[2021.05.16-14.14.57:248][548]LogWorld: Bringing up level for play took: 0.000893
+[2021.05.16-14.14.57:248][548]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.14.57:252][548]LogLoad: Took 0.071081 seconds to LoadMap(/Game/Map/Question21)
+[2021.05.16-14.15.01:928][807]LogNet: Browse: /Game/Map/Question22
+[2021.05.16-14.15.01:928][807]LogLoad: LoadMap: /Game/Map/Question22
+[2021.05.16-14.15.01:928][807]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question21
+[2021.05.16-14.15.01:929][807]LogWorld: UWorld::CleanupWorld for Question21, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.15.01:929][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.15.01:986][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.15.01:992][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.05.16-14.15.02:172][807]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question22'.
+[2021.05.16-14.15.02:173][807]LogAIModule: Creating AISystem for world Question22
+[2021.05.16-14.15.02:173][807]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.15.02:175][807]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question22.Question22 up for play (max tick rate 60) at 2021.05.16-16.15.02
+[2021.05.16-14.15.02:175][807]LogWorld: Bringing up level for play took: 0.001002
+[2021.05.16-14.15.02:176][807]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.15.02:179][807]LogLoad: Took 0.250341 seconds to LoadMap(/Game/Map/Question22)
+[2021.05.16-14.15.07:445][102]LogNet: Browse: /Game/Map/Question23
+[2021.05.16-14.15.07:445][102]LogLoad: LoadMap: /Game/Map/Question23
+[2021.05.16-14.15.07:445][102]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question22
+[2021.05.16-14.15.07:446][102]LogWorld: UWorld::CleanupWorld for Question22, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.15.07:446][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.15.07:489][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.15.07:495][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.05.16-14.15.07:689][102]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question23'.
+[2021.05.16-14.15.07:690][102]LogAIModule: Creating AISystem for world Question23
+[2021.05.16-14.15.07:691][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.15.07:692][102]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question23.Question23 up for play (max tick rate 60) at 2021.05.16-16.15.07
+[2021.05.16-14.15.07:693][102]LogWorld: Bringing up level for play took: 0.001071
+[2021.05.16-14.15.07:693][102]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.15.07:696][102]LogLoad: Took 0.251410 seconds to LoadMap(/Game/Map/Question23)
+[2021.05.16-14.15.19:015][735]LogNet: Browse: /Game/Map/Question24
+[2021.05.16-14.15.19:015][735]LogLoad: LoadMap: /Game/Map/Question24
+[2021.05.16-14.15.19:016][735]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question23
+[2021.05.16-14.15.19:017][735]LogWorld: UWorld::CleanupWorld for Question23, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.15.19:017][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.15.19:067][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.15.19:074][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.05.16-14.15.19:174][735]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question24'.
+[2021.05.16-14.15.19:176][735]LogAIModule: Creating AISystem for world Question24
+[2021.05.16-14.15.19:176][735]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.15.19:178][735]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question24.Question24 up for play (max tick rate 60) at 2021.05.16-16.15.19
+[2021.05.16-14.15.19:178][735]LogWorld: Bringing up level for play took: 0.000968
+[2021.05.16-14.15.19:179][735]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.15.19:182][735]LogLoad: Took 0.165960 seconds to LoadMap(/Game/Map/Question24)
+[2021.05.16-14.15.22:329][908]LogNet: Browse: /Game/Map/Question25
+[2021.05.16-14.15.22:329][908]LogLoad: LoadMap: /Game/Map/Question25
+[2021.05.16-14.15.22:329][908]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question24
+[2021.05.16-14.15.22:330][908]LogWorld: UWorld::CleanupWorld for Question24, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.15.22:330][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.15.22:381][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.15.22:387][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.05.16-14.15.22:498][908]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question25'.
+[2021.05.16-14.15.22:499][908]LogAIModule: Creating AISystem for world Question25
+[2021.05.16-14.15.22:499][908]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.15.22:501][908]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question25.Question25 up for play (max tick rate 60) at 2021.05.16-16.15.22
+[2021.05.16-14.15.22:502][908]LogWorld: Bringing up level for play took: 0.001053
+[2021.05.16-14.15.22:502][908]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.15.22:505][908]LogLoad: Took 0.175307 seconds to LoadMap(/Game/Map/Question25)
+[2021.05.16-14.15.29:483][290]LogNet: Browse: /Game/Map/Question26
+[2021.05.16-14.15.29:483][290]LogLoad: LoadMap: /Game/Map/Question26
+[2021.05.16-14.15.29:483][290]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question25
+[2021.05.16-14.15.29:484][290]LogWorld: UWorld::CleanupWorld for Question25, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.15.29:484][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.15.29:532][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.15.29:538][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.05.16-14.15.29:760][290]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question26'.
+[2021.05.16-14.15.29:761][290]LogAIModule: Creating AISystem for world Question26
+[2021.05.16-14.15.29:761][290]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.15.29:763][290]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question26.Question26 up for play (max tick rate 60) at 2021.05.16-16.15.29
+[2021.05.16-14.15.29:764][290]LogWorld: Bringing up level for play took: 0.001229
+[2021.05.16-14.15.29:764][290]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.15.29:768][290]LogLoad: Took 0.285531 seconds to LoadMap(/Game/Map/Question26)
+[2021.05.16-14.15.55:753][755]LogNet: Browse: /Game/Map/Question27
+[2021.05.16-14.15.55:753][755]LogLoad: LoadMap: /Game/Map/Question27
+[2021.05.16-14.15.55:753][755]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question26
+[2021.05.16-14.15.55:753][755]LogWorld: UWorld::CleanupWorld for Question26, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.15.55:753][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.15.55:800][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.15.55:806][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.05.16-14.15.55:956][755]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question27'.
+[2021.05.16-14.15.55:957][755]LogAIModule: Creating AISystem for world Question27
+[2021.05.16-14.15.55:958][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.15.55:959][755]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question27.Question27 up for play (max tick rate 60) at 2021.05.16-16.15.55
+[2021.05.16-14.15.55:960][755]LogWorld: Bringing up level for play took: 0.001115
+[2021.05.16-14.15.55:961][755]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.15.55:963][755]LogLoad: Took 0.210107 seconds to LoadMap(/Game/Map/Question27)
+[2021.05.16-14.16.08:118][437]LogNet: Browse: /Game/Map/Question28
+[2021.05.16-14.16.08:118][437]LogLoad: LoadMap: /Game/Map/Question28
+[2021.05.16-14.16.08:118][437]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question27
+[2021.05.16-14.16.08:119][437]LogWorld: UWorld::CleanupWorld for Question27, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.16.08:119][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.16.08:152][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.16.08:157][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.16-14.16.08:277][437]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question28'.
+[2021.05.16-14.16.08:278][437]LogAIModule: Creating AISystem for world Question28
+[2021.05.16-14.16.08:279][437]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.16.08:281][437]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question28.Question28 up for play (max tick rate 60) at 2021.05.16-16.16.08
+[2021.05.16-14.16.08:281][437]LogWorld: Bringing up level for play took: 0.001424
+[2021.05.16-14.16.08:282][437]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.16.08:285][437]LogLoad: Took 0.166867 seconds to LoadMap(/Game/Map/Question28)
+[2021.05.16-14.16.31:342][723]LogNet: Browse: /Game/Map/Question29
+[2021.05.16-14.16.31:342][723]LogLoad: LoadMap: /Game/Map/Question29
+[2021.05.16-14.16.31:343][723]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question28
+[2021.05.16-14.16.31:343][723]LogWorld: UWorld::CleanupWorld for Question28, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.16.31:343][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.16.31:389][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.16.31:395][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.05.16-14.16.31:798][723]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question29'.
+[2021.05.16-14.16.31:800][723]LogAIModule: Creating AISystem for world Question29
+[2021.05.16-14.16.31:801][723]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.16.31:802][723]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question29.Question29 up for play (max tick rate 60) at 2021.05.16-16.16.31
+[2021.05.16-14.16.31:802][723]LogWorld: Bringing up level for play took: 0.000890
+[2021.05.16-14.16.31:803][723]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.16.31:805][723]LogLoad: Took 0.462908 seconds to LoadMap(/Game/Map/Question29)
+[2021.05.16-14.16.52:756][891]LogNet: Browse: /Game/Map/Question30
+[2021.05.16-14.16.52:756][891]LogLoad: LoadMap: /Game/Map/Question30
+[2021.05.16-14.16.52:756][891]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question29
+[2021.05.16-14.16.52:757][891]LogWorld: UWorld::CleanupWorld for Question29, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.16.52:757][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.16.52:815][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.16.52:821][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.05.16-14.16.52:974][891]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question30'.
+[2021.05.16-14.16.52:975][891]LogAIModule: Creating AISystem for world Question30
+[2021.05.16-14.16.52:975][891]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.16.52:977][891]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question30.Question30 up for play (max tick rate 60) at 2021.05.16-16.16.52
+[2021.05.16-14.16.52:977][891]LogWorld: Bringing up level for play took: 0.000914
+[2021.05.16-14.16.52:978][891]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.16.52:982][891]LogLoad: Took 0.225546 seconds to LoadMap(/Game/Map/Question30)
+[2021.05.16-14.16.57:428][136]LogNet: Browse: /Game/Map/Question31
+[2021.05.16-14.16.57:428][136]LogLoad: LoadMap: /Game/Map/Question31
+[2021.05.16-14.16.57:428][136]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question30
+[2021.05.16-14.16.57:429][136]LogWorld: UWorld::CleanupWorld for Question30, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.16.57:429][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.16.57:490][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.16.57:497][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.05.16-14.16.57:597][136]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question31'.
+[2021.05.16-14.16.57:599][136]LogAIModule: Creating AISystem for world Question31
+[2021.05.16-14.16.57:599][136]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.16.57:601][136]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question31.Question31 up for play (max tick rate 60) at 2021.05.16-16.16.57
+[2021.05.16-14.16.57:602][136]LogWorld: Bringing up level for play took: 0.001004
+[2021.05.16-14.16.57:602][136]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.16.57:605][136]LogLoad: Took 0.177223 seconds to LoadMap(/Game/Map/Question31)
+[2021.05.16-14.17.29:014][898]LogNet: Browse: /Game/Map/Question32
+[2021.05.16-14.17.29:014][898]LogLoad: LoadMap: /Game/Map/Question32
+[2021.05.16-14.17.29:015][898]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question31
+[2021.05.16-14.17.29:015][898]LogWorld: UWorld::CleanupWorld for Question31, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.17.29:015][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.17.29:064][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.17.29:071][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.05.16-14.17.29:464][898]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question32'.
+[2021.05.16-14.17.29:465][898]LogAIModule: Creating AISystem for world Question32
+[2021.05.16-14.17.29:466][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.17.29:468][898]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question32.Question32 up for play (max tick rate 60) at 2021.05.16-16.17.29
+[2021.05.16-14.17.29:468][898]LogWorld: Bringing up level for play took: 0.001319
+[2021.05.16-14.17.29:469][898]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.17.29:471][898]LogLoad: Took 0.457276 seconds to LoadMap(/Game/Map/Question32)
+[2021.05.16-14.17.32:680][ 77]LogNet: Browse: /Game/Map/Question35
+[2021.05.16-14.17.32:680][ 77]LogLoad: LoadMap: /Game/Map/Question35
+[2021.05.16-14.17.32:680][ 77]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question32
+[2021.05.16-14.17.32:681][ 77]LogWorld: UWorld::CleanupWorld for Question32, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.17.32:681][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.17.32:729][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.17.32:736][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.05.16-14.17.32:843][ 77]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question35'.
+[2021.05.16-14.17.32:845][ 77]LogAIModule: Creating AISystem for world Question35
+[2021.05.16-14.17.32:845][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.17.32:847][ 77]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question35.Question35 up for play (max tick rate 60) at 2021.05.16-16.17.32
+[2021.05.16-14.17.32:847][ 77]LogWorld: Bringing up level for play took: 0.000913
+[2021.05.16-14.17.32:847][ 77]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.17.32:850][ 77]LogLoad: Took 0.169672 seconds to LoadMap(/Game/Map/Question35)
+[2021.05.16-14.17.38:592][397]LogNet: Browse: /Game/Map/Question36
+[2021.05.16-14.17.38:592][397]LogLoad: LoadMap: /Game/Map/Question36
+[2021.05.16-14.17.38:592][397]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question35
+[2021.05.16-14.17.38:593][397]LogWorld: UWorld::CleanupWorld for Question35, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.17.38:593][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.17.38:634][397]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.17.38:640][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.05.16-14.17.38:812][397]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question36'.
+[2021.05.16-14.17.38:814][397]LogAIModule: Creating AISystem for world Question36
+[2021.05.16-14.17.38:814][397]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.17.38:816][397]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question36.Question36 up for play (max tick rate 60) at 2021.05.16-16.17.38
+[2021.05.16-14.17.38:816][397]LogWorld: Bringing up level for play took: 0.000992
+[2021.05.16-14.17.38:816][397]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.17.38:819][397]LogLoad: Took 0.226622 seconds to LoadMap(/Game/Map/Question36)
+[2021.05.16-14.17.41:917][569]LogNet: Browse: /Game/Map/Question37
+[2021.05.16-14.17.41:917][569]LogLoad: LoadMap: /Game/Map/Question37
+[2021.05.16-14.17.41:917][569]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question36
+[2021.05.16-14.17.41:918][569]LogWorld: UWorld::CleanupWorld for Question36, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.17.41:918][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.17.41:964][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.17.41:972][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.05.16-14.17.42:074][569]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question37'.
+[2021.05.16-14.17.42:075][569]LogAIModule: Creating AISystem for world Question37
+[2021.05.16-14.17.42:076][569]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.17.42:078][569]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question37.Question37 up for play (max tick rate 60) at 2021.05.16-16.17.42
+[2021.05.16-14.17.42:078][569]LogWorld: Bringing up level for play took: 0.001073
+[2021.05.16-14.17.42:078][569]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.17.42:082][569]LogLoad: Took 0.164966 seconds to LoadMap(/Game/Map/Question37)
+[2021.05.16-14.17.46:127][793]LogNet: Browse: /Game/Map/Question38
+[2021.05.16-14.17.46:127][793]LogLoad: LoadMap: /Game/Map/Question38
+[2021.05.16-14.17.46:127][793]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question37
+[2021.05.16-14.17.46:127][793]LogWorld: UWorld::CleanupWorld for Question37, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.17.46:127][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.17.46:172][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.17.46:178][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.05.16-14.17.46:338][793]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question38'.
+[2021.05.16-14.17.46:339][793]LogAIModule: Creating AISystem for world Question38
+[2021.05.16-14.17.46:340][793]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.17.46:342][793]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question38.Question38 up for play (max tick rate 60) at 2021.05.16-16.17.46
+[2021.05.16-14.17.46:342][793]LogWorld: Bringing up level for play took: 0.001156
+[2021.05.16-14.17.46:343][793]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.17.46:345][793]LogLoad: Took 0.218240 seconds to LoadMap(/Game/Map/Question38)
+[2021.05.16-14.17.50:197][  5]LogNet: Browse: /Game/Map/FinQuestion
+[2021.05.16-14.17.50:197][  5]LogLoad: LoadMap: /Game/Map/FinQuestion
+[2021.05.16-14.17.50:197][  5]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question38
+[2021.05.16-14.17.50:198][  5]LogWorld: UWorld::CleanupWorld for Question38, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.17.50:198][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.17.50:266][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.17.50:272][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.05.16-14.17.50:360][  5]LogAudio: Display: Audio Device (ID: 3) registered with world 'FinQuestion'.
+[2021.05.16-14.17.50:362][  5]LogAIModule: Creating AISystem for world FinQuestion
+[2021.05.16-14.17.50:362][  5]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.17.50:363][  5]LogWorld: Bringing World /Game/Map/UEDPIE_0_FinQuestion.FinQuestion up for play (max tick rate 60) at 2021.05.16-16.17.50
+[2021.05.16-14.17.50:364][  5]LogWorld: Bringing up level for play took: 0.000915
+[2021.05.16-14.17.50:364][  5]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.17.50:367][  5]LogLoad: Took 0.169955 seconds to LoadMap(/Game/Map/FinQuestion)
+[2021.05.16-14.17.54:658][248]LogNet: Browse: /Game/ThirdPersonBP/Maps/CarteTest
+[2021.05.16-14.17.54:658][248]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/CarteTest
+[2021.05.16-14.17.54:658][248]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_FinQuestion
+[2021.05.16-14.17.54:659][248]LogWorld: UWorld::CleanupWorld for FinQuestion, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.17.54:659][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.17.54:722][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.17.54:727][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.05.16-14.17.54:728][248]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_CarteTest
+[2021.05.16-14.17.55:308][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.580154s)
+[2021.05.16-14.17.55:311][248]LogAIModule: Creating AISystem for world CarteTest
+[2021.05.16-14.17.55:313][248]LogPlayLevel: PIE: World Init took: (0.004841s)
+[2021.05.16-14.17.55:314][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/CarteTest.CarteTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_CarteTest.CarteTest (0.586380s)
+[2021.05.16-14.17.55:314][248]LogAudio: Display: Audio Device (ID: 3) registered with world 'CarteTest'.
+[2021.05.16-14.17.55:314][248]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.17.55:421][248]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_CarteTest.CarteTest up for play (max tick rate 60) at 2021.05.16-16.17.55
+[2021.05.16-14.17.55:425][248]LogWorld: Bringing up level for play took: 0.108751
+[2021.05.16-14.17.55:449][248]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.17.55:467][248]LogLoad: Took 0.808793 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_CarteTest)
+[2021.05.16-14.22.05:134][832]LogNet: Browse: /Game/Map/Question0
+[2021.05.16-14.22.05:134][832]LogLoad: LoadMap: /Game/Map/Question0
+[2021.05.16-14.22.05:134][832]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_CarteTest
+[2021.05.16-14.22.05:140][832]LogWorld: UWorld::CleanupWorld for CarteTest, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.22.05:175][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.22.05:234][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.22.05:255][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.05.16-14.22.05:262][832]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Question0
+[2021.05.16-14.22.05:265][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002544s)
+[2021.05.16-14.22.05:266][832]LogAIModule: Creating AISystem for world Question0
+[2021.05.16-14.22.05:266][832]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2021.05.16-14.22.05:267][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Question0.Question0 to /Game/Map/UEDPIE_0_Question0.Question0 (0.004631s)
+[2021.05.16-14.22.05:267][832]LogAudio: Display: Audio Device (ID: 3) registered with world 'Question0'.
+[2021.05.16-14.22.05:267][832]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.16-14.22.05:268][832]LogWorld: Bringing World /Game/Map/UEDPIE_0_Question0.Question0 up for play (max tick rate 60) at 2021.05.16-16.22.05
+[2021.05.16-14.22.05:268][832]LogWorld: Bringing up level for play took: 0.000635
+[2021.05.16-14.22.05:269][832]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.16-14.22.05:272][832]LogLoad: Took 0.137999 seconds to LoadMap(/Game/Map/UEDPIE_0_Question0)
+[2021.05.16-14.26.29:604][156]LogActor: Warning: ThirdPersonCharacter_C_0 is outside the world bounds!
+[2021.05.16-14.32.30:463][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-14.32.30:463][755]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Question0
+[2021.05.16-14.32.30:463][755]LogSlate: Window 'Data2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.16-14.32.30:498][755]LogWorld: UWorld::CleanupWorld for Question0, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-14.32.30:498][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.32.30:514][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-14.32.30:522][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-14.32.30:559][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.16-14.32.30:559][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.16-14.32.30:563][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.16-14.32.30:609][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.05.16-14.32.30:634][756]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.16-15.19.35:097][809]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-15.19.35:626][809]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-15.19.35:626][809]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-15.19.36:089][810]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-15.19.36:218][810]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-15.19.36:218][810]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-15.19.55:564][824]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-15.19.55:626][824]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-15.19.55:626][824]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-17.16.26:717][623]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-17.16.26:946][623]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-17.16.26:946][623]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-17.16.28:162][624]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-17.16.28:369][624]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-17.16.28:369][624]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.33.48:391][636]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.16-19.33.59:776][636]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-19.34.05:535][636]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-19.34.05:535][636]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.34.14:786][637]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.05.16-19.34.20:165][637]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-19.34.21:038][637]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-19.34.21:038][637]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.34.22:674][638]LogHttp: Warning: 000001E7F698E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B577FD8B7-4F28-E343-23CE-979BDC4FFBC2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=48fad458467f09480787bc98136014a5%7C76832e28c7334cd6b0f9cec8f820546d%7Ca61a08a8-dcb2-4b93-a97b-a2b0de3ed662&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.16-19.34.22:676][638]LogHttp: Warning: 000001E7F698E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.16-19.34.22:710][638]LogHttp: Warning: 000001E7F698E400: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2021.05.16-19.34.22:710][638]LogHttp: Warning: 000001E7F698E400: libcurl info message cache 1 (Closing connection 0)
+[2021.05.16-19.34.22:710][638]LogHttp: Warning: 000001E7F698E400: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.16-19.34.22:711][638]LogHttp: Warning: 000001E7F698E400: libcurl info message cache 3 (Closing connection 1)
+[2021.05.16-19.34.22:711][638]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B577FD8B7-4F28-E343-23CE-979BDC4FFBC2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=48fad458467f09480787bc98136014a5%7C76832e28c7334cd6b0f9cec8f820546d%7Ca61a08a8-dcb2-4b93-a97b-a2b0de3ed662&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.16-19.34.23:286][638]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-19.34.23:689][638]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-19.34.23:689][638]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.34.24:714][639]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-19.34.25:083][639]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-19.34.25:084][639]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.34.25:794][640]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.16-19.34.25:955][640]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-19.34.25:955][640]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-19.34.32:430][963]LogUObjectHash: Compacting FUObjectHashTables data took  36.40ms
+[2021.05.16-19.34.33:902][963]LogSlate: Window 'Data2 - Unreal Editor' being destroyed
+[2021.05.16-19.34.33:944][963]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.16-19.34.41:714][964]Cmd: QUIT_EDITOR
+[2021.05.16-19.34.41:743][964]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.05.16-19.34.42:109][964]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.16-19.34.43:342][964]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.05.16-19.34.43:342][964]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.05.16-19.34.43:350][964]LogAudio: Display: Audio Device unregistered from world 'Question0'.
+[2021.05.16-19.34.43:567][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.16-19.34.43:572][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.16-19.34.44:546][964]LogAudio: Display: Audio Device Manager Shutdown
+[2021.05.16-19.34.45:525][964]LogExit: Preparing to exit.
